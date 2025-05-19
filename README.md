@@ -2,7 +2,7 @@
 
 <br>
 
-## Date:
+## Date: 24.04.2025
 
 <br>
 
@@ -59,6 +59,10 @@ Step 8: Print the value of y.
 <br>
 
 ## Program:
+
+ name:yashwanth.asv
+ 
+ reg no:24900018
 
 <br>
 
